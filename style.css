@@ -9,7 +9,7 @@ header {
 
 .header-container {
     height: 60px;
-    
+    line-height: 30px;
     display: flex;
     justify-content: space-between;
     max-width: 1000px;
