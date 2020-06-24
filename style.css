@@ -17,6 +17,7 @@ header {
 }
 
 .header-container ul{
+    height: 60px;
     list-style: none;
     display: flex;
 }
