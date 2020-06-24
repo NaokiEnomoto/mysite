@@ -35,10 +35,6 @@ header {
 .header-container a:hover{
     opacity: 0.7;
 }
-.header-container .title{
-    font-size: 14px;
-    font-weight: bold;
-}
 
 .keyvisual{
     height: 600px;
